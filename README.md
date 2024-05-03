@@ -1,5 +1,8 @@
 # Adventure Work Cycles Dashboard
 # Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+# Dashboard Preview : 
+![image](https://github.com/neha-p-sharma/Adventure-Work-Cycles/assets/168817042/ec4fd207-a695-4fa6-b9cd-4eaee908e6c8)
+
 # Project Overview
 Adventure Works Cycles, known for its innovative products and global presence, sought to capitalize on data-driven insights to expand its market share, optimize production processes, and boost profitability.
 # 📊 Key Insights:
